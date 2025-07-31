@@ -1,49 +1,50 @@
-# Erhuvwurhire-
-GitHub Profile README 
-# Industrial AI Optimization Toolkit
+# 👋 Hi, I'm Erhuvwurhire Akpoghiran
 
-A collection of AI/ML tools and experiments aimed at optimizing processes in the Manufacturing and Energy sectors. This repository features data-driven workflows, predictive maintenance models, abnormal detection, process simulations, and optimization algorithms built with Python and open-source libraries.
+**Machine Learning Engineer & Data Scientist**  
+Focused on applying AI to real-world problems in the **Manufacturing** and **Energy** sectors.
 
-## 🔍 Project Overview
+---
 
-This toolkit demonstrates how machine learning and data science can be applied to:
-- Improve efficiency in manufacturing operations
-- Predict equipment failures using sensor data
-- Optimize energy consumption and load balancing
-- Apply reinforcement learning to control systems
-- Data Driven Control
+### ⚙️ About Me
 
-Each module is designed to be modular, reproducible, and scalable for deployment in industrial environments.
+- 🎓 MSc in Control, Automation, and Artificial Intelligence  
+- 🧠 Passionate about **Industrial AI**, **Predictive Maintenance**, and **Optimization Algorithms**
+- 🌍 Currently exploring how AI can support **sustainable operations** and **process efficiency**
+- 🛠️ Tools: Python, TensorFlow, PyTorch, Scikit-learn, MATLAB, Simulink, Azure, Git
 
-## 🚀 Features
+---
 
-- ✅ End-to-end ML pipelines
-- ✅ Predictive maintenance with real-world datasets (e.g. NASA CMAPSS)
-- ✅ Process optimization using reinforcement learning
-- ✅ Visualizations and dashboards for operational insights
-- ✅ Integration with SCADA-simulated environments
+### 📌 Current Interests
 
-## 🛠️ Technologies Used
+- 🔧 Applying ML to improve reliability in industrial systems  
+- 📊 Building data pipelines for sensor-driven decision-making  
+- 🌱 Exploring reinforcement learning in energy optimization  
+- 🛡️ Working at the intersection of AI and OT cybersecurity  
 
-- **Languages:** Python, Bash
-- **Libraries:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook, Git, GitHub, Docker
-- **Cloud/DevOps:** Azure, AWS, GitHub Actions (for CI/CD)
-- **Others:** Matlab/Simulink (for control modeling), MQTT (for IoT integrations) 
+---
 
-## 📁 Repository Structure
+### 📂 Featured Projects
 
-```bash
-.
-├── notebooks/               # Jupyter Notebooks for experiments and analysis
-├── src/                     # Source Python modules for models and utilities
-├── data/                    # Data samples or links to public datasets
-├── dashboards/              # Interactive visualizations and tools
-├── models/                  # Saved model weights and performance logs
-├── README.md                # This file
-└── requirements.txt         # Python dependencies
+- 🚀 **Predictive Maintenance with NASA CMAPSS**  
+  ML pipeline to forecast turbofan engine failures using sensor data
 
-##### FIND ME 
-Linkedin: https://www.linkedin.com/in/erhuvwu-akpoghiran/
-Medium: https://medium.com/@erhu_thinks 
+- 🧠 **Reinforcement Learning for Process Control**  
+  Optimizing energy and resource usage in industrial operations
+
+- 📡 **AI + SCADA Integration**  
+  Prototyping intelligent agents for industrial control systems
+
+> 📍 All project code, notebooks, and experiments are in my pinned repositories below.
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [erhuvwurhire@gmail.com](mailto:erhuvwurhire@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erhuvwu-akpoghiran/)  
+- 📝 [Medium](https://medium.com/@erhu_thinks)  
+
+---
+
+_“Bridging AI and operational technology to build intelligent, efficient, and resilient industrial systems.”_
 
