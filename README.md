@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Erhuvwurhire Akpoghiran
+#  Hi, I'm Erhuvwurhire Akpoghiran, you can call me Erhuvwu
 
 **Machine Learning Engineer & Data Scientist**  
 Focused on applying AI to real-world problems in the **Manufacturing** and **Energy** sectors.
