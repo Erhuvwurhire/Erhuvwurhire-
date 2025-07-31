@@ -19,7 +19,7 @@ Focused on applying AI to real-world problems in the **Manufacturing** and **Ene
 - 🔧 Applying ML to improve reliability in industrial systems  
 - 📊 Building data pipelines for sensor-driven decision-making  
 - 🌱 Exploring reinforcement learning in energy optimization  
-- 🛡️ Working on Projects that use AI for Industrial Application
+- 🛡️ Working on Projects that use AI for Industrial Applications
 
 ---
 
@@ -41,9 +41,9 @@ Focused on applying AI to real-world problems in the **Manufacturing** and **Ene
 
 - 📧 Email: [erhuvwurhire@gmail.com](mailto:erhuvwurhire@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/erhuvwu-akpoghiran/)  
-- 📝 [Medium](https://medium.com/@erhu_thinks)  
+ 
 
 ---
 
-_“Bridging AI and operational technology to build intelligent, efficient, and resilient industrial systems.”_
+_“AI for Industrial Applications"
 
