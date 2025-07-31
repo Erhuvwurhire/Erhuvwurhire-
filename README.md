@@ -19,7 +19,7 @@ Focused on applying AI to real-world problems in the **Manufacturing** and **Ene
 - 🔧 Applying ML to improve reliability in industrial systems  
 - 📊 Building data pipelines for sensor-driven decision-making  
 - 🌱 Exploring reinforcement learning in energy optimization  
-- 🛡️ Working at the intersection of AI and OT cybersecurity  
+- 🛡️ Working on Projects that use AI for Industrial Application
 
 ---
 
@@ -27,12 +27,11 @@ Focused on applying AI to real-world problems in the **Manufacturing** and **Ene
 
 - 🚀 **Predictive Maintenance with NASA CMAPSS**  
   ML pipeline to forecast turbofan engine failures using sensor data
-
 - 🧠 **Reinforcement Learning for Process Control**  
   Optimizing energy and resource usage in industrial operations
-
-- 📡 **AI + SCADA Integration**  
-  Prototyping intelligent agents for industrial control systems
+- 📡 **AI + SCADA Integration**
+- Machine vision for Abnormality detection
+  
 
 > 📍 All project code, notebooks, and experiments are in my pinned repositories below.
 
