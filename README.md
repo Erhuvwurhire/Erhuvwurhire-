@@ -19,7 +19,7 @@ Focused on applying AI to real-world problems in the **Manufacturing** and **Ene
 - 🔧 Applying ML to improve reliability in industrial systems  
 - 📊 Building data pipelines for sensor-driven decision-making  
 - 🌱 Exploring reinforcement learning in energy optimization  
-- 🛡️ Working on Projects that use AI for Industrial Applications
+- 🛡️ Overall working on Projects that use AI for Industrial Applications
 
 ---
 
