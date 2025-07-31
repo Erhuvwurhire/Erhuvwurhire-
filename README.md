@@ -1,15 +1,15 @@
 #  Hi, I'm Erhuvwu
 
 **Machine Learning Engineer & Data Scientist**  
-Focused on applying AI to real-world problems in the **Manufacturing** and **Energy** sectors.
+Focused on applying AI to real-world problems in the Manufacturing and Energy sectors.
 
 ---
 
 ### ⚙️ About Me
 
 -  MSc in Control, Automation, and Artificial Intelligence  
--  Passionate about **Industrial AI**, **Predictive Maintenance**, and **Optimization Algorithms**
--  Currently exploring how AI can support **sustainable operations** and **process efficiency**
+-  Passionate about Industrial AI, Predictive Maintenance, and Optimization Algorithms
+-  Currently exploring how AI can support sustainable operations and process efficiency
 -  Tools: Python, TensorFlow, PyTorch, Scikit-learn, MATLAB, Simulink, Azure, Git
 
 ---
